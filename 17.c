@@ -20,6 +20,7 @@
 // */
 
 #include <stdio.h>
+#include <math.h>
 int main() {
     float a, b, c, d, root1, root2;
     printf("Enter coefficients a, b, c: ");
@@ -42,3 +43,4 @@ int main() {
 
     return 0;
 }
+
