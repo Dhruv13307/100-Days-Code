@@ -38,7 +38,8 @@ int main() {
     else
         bill = 100*5 + 100*7 + 100*10 + (units-300)*12;
 
-    printf("Electricity Bill = ₹%d\n", bill);
+    printf("Electricity Bill = Rs%d\n", bill);
     return 0;
 }
+
 
