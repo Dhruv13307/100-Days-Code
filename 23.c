@@ -45,7 +45,8 @@ int main() {
         return 0;
     }
 
-    printf("Fine = ₹%d\n", fine);
+    printf("Fine = Rs%d\n", fine);
     return 0;
 }
+
 
