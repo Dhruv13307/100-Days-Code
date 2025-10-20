@@ -23,7 +23,7 @@ int main() {
     scanf("%d", &n);
 
     a = n;
-    while (temp > 0) {   // count digits
+    while (a > 0) {   // count digits
         digits++;
         a /= 10;
     }
